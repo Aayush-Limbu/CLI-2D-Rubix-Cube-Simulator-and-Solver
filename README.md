@@ -38,15 +38,3 @@ Close the window.
 ![image](https://github.com/user-attachments/assets/44e3bb7f-3c61-4bd8-bf53-98d27a7494fb)
 
 Follow the instructions in the command prompt.
-
-
-
-
-
-
-
-
-
-
-
-To enter your input, close the matplotlib window and follow the instructions in the CMD.
